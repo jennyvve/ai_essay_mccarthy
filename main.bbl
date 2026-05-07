@@ -15,4 +15,9 @@ Daniel~C. Dennett.
 \newblock Brainchildren: Essays on designing minds.
 \newblock 1998.
 
+\bibitem{shoj}
+Parshin Shojaee, Iman Mirzadeh, Keivan Alizadeh-Vahid, Maxwell Horton, Samy Bengio, and Mehrdad Farajtabar.
+\newblock The illusion of thinking: Understanding the strengths and limitations of reasoning models via the lens of problem complexity.
+\newblock {\em ArXiv}, abs/2506.06941, 2025.
+
 \end{thebibliography}
